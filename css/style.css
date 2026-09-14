@@ -12,7 +12,7 @@ html {
 
 body {
     font-family:
-        "Times New Roman",
+        "Aptos",
         "Segoe UI",
         system-ui,
         -apple-system,
@@ -24,7 +24,7 @@ body {
         #fafbfb;
 
     color:
-        #095165;
+        #102b55;
 
     transition:
         background .3s,
@@ -417,7 +417,7 @@ a {
         38px 48px;
 
     background:
-        rgba(255,255,255,.80);
+         #e6f0f5;
 
     border:
         1px solid #dce4ee;
@@ -441,7 +441,7 @@ a {
         36px;
 
     border-right:
-        1px solid #d9e1eb;
+        1px solid  #e6f0f5;
 
     display:
         flex;
@@ -746,7 +746,7 @@ a {
         0;
 
     color:
-        #095165;
+        #102b55;
 
     letter-spacing:
         -2px;
@@ -764,7 +764,7 @@ a {
         3px;
 
     background:
-     #095165;
+     #102b55;
 ;
 
     margin:
@@ -783,7 +783,7 @@ a {
         600;
 
     color:
-                #095165;
+                #102b55;
 
     margin:
         0 0 8px;
@@ -802,7 +802,7 @@ a {
         0 0 5px;
 
     color:
-                #095165;
+                #102b55;
 }
 
 
@@ -815,7 +815,7 @@ a {
         20px;
 
     color:
-        #095165;
+        #102b55;
 }
 
 
@@ -832,13 +832,13 @@ a {
         28px 0 34px;
 
     font-size:
-        19px;
+        25px;
 
     line-height:
         1.65;
 
     color:
-        #095165;
+        #102b55;
 }
 
 
@@ -856,7 +856,7 @@ a {
 .eyebrow {
 
     font-size:
-        14px;
+        25px;
 
     font-weight:
         700;
@@ -868,7 +868,7 @@ a {
         uppercase;
 
     color:
-        #34445c;
+        #016667;
 }
 
 
@@ -918,13 +918,13 @@ a {
         14px;
 
     background:
-        #f8faff;
+        #102b55;
 
     color:
-        #2c394d;
+        #f6f8f9;
 
     font-size:
-        14px;
+        20px;
 
     box-shadow:
         0 5px 12px
@@ -952,7 +952,7 @@ a {
 .tags i {
 
     color:
-        #315ba5;
+        #f3f3f4;
 
     font-size:
         17px;
@@ -994,7 +994,7 @@ a {
         195px;
 
     background:
-        rgba(255,255,255,.82);
+         #e6f0f5;
 
     border:
         1px solid #dbe3ee;
@@ -1266,7 +1266,7 @@ body.dark .online-title {
 body.dark .hero-content h1 {
 
     color:
-        #edf2f8;
+        #f5f5f4;
 }
 
 
